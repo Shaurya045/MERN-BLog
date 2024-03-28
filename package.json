@@ -1,5 +1,17 @@
 {
   "dependencies": {
+    "express": "^4.19.2",
     "flowbite-react": "^0.7.5"
-  }
+  },
+  "name": "mern_project1",
+  "version": "1.0.0",
+  "type":"module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
